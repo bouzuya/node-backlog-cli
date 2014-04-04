@@ -29,6 +29,7 @@
   "homepage": "https://github.com/bouzuya/node-backlog-cli",
   "dependencies": {
     "backlog-api": "^1.0.2",
-    "commander": "^2.2.0"
+    "commander": "^2.2.0",
+    "q": "^1.0.1"
   }
 }
