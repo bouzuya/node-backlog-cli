@@ -2,7 +2,9 @@
   "name": "backlog-cli",
   "version": "0.0.0",
   "description": "Backlog's command line interface. (unofficial)",
-  "main": "index.js",
+  "bin": {
+    "backlog": "./bin/backlog"
+  },
   "scripts": {
     "test": "mocha -R spec"
   },
