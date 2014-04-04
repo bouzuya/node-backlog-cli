@@ -1,0 +1,28 @@
+{
+  "name": "backlog-cli",
+  "version": "0.0.0",
+  "description": "Backlog's command line interface. (unofficial)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bouzuya/node-backlog-cli.git"
+  },
+  "keywords": [
+    "nulab",
+    "backlog",
+    "cli"
+  ],
+  "author": {
+    "name": "bouzuya",
+    "email": "bouzuya@gmail.com",
+    "url": "http://bouzuya.net/"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bouzuya/node-backlog-cli/issues"
+  },
+  "homepage": "https://github.com/bouzuya/node-backlog-cli"
+}
