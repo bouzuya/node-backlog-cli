@@ -7,7 +7,8 @@
     "backlog-issue": "./bin/backlog-issue",
     "backlog-login": "./bin/backlog-login",
     "backlog-logout": "./bin/backlog-logout",
-    "backlog-project": "./bin/backlog-project"
+    "backlog-project": "./bin/backlog-project",
+    "backlog-comment": "./bin/backlog-comment"
   },
   "scripts": {
     "test": "mocha -R spec"
