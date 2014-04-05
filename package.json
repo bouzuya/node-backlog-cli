@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "description": "Backlog command line interface. (unofficial)",
   "bin": {
-    "backlog": "./bin/backlog"
+    "backlog": "./bin/backlog",
+    "backlog-issue": "./bin/backlog-issue",
+    "backlog-login": "./bin/backlog-login",
+    "backlog-logout": "./bin/backlog-logout",
+    "backlog-project": "./bin/backlog-project"
   },
   "scripts": {
     "test": "mocha -R spec"
