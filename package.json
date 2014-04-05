@@ -1,13 +1,14 @@
 {
   "name": "backlog-cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Backlog command line interface. (unofficial)",
   "bin": {
     "backlog": "./bin/backlog",
     "backlog-issue": "./bin/backlog-issue",
     "backlog-login": "./bin/backlog-login",
     "backlog-logout": "./bin/backlog-logout",
-    "backlog-project": "./bin/backlog-project"
+    "backlog-project": "./bin/backlog-project",
+    "backlog-comment": "./bin/backlog-comment"
   },
   "scripts": {
     "test": "mocha -R spec"
