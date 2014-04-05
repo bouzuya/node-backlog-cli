@@ -1,7 +1,7 @@
 {
   "name": "backlog-cli",
-  "version": "0.0.0",
-  "description": "Backlog's command line interface. (unofficial)",
+  "version": "0.1.0",
+  "description": "Backlog command line interface. (unofficial)",
   "bin": {
     "backlog": "./bin/backlog"
   },

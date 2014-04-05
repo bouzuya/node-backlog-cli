@@ -1,5 +1,5 @@
 backlog-cli
 ==============================================================================
 
-[Backlog](http://www.backlog.jp/)'s command line interface. (unofficial)
+[Backlog](http://www.backlog.jp/) command line interface. (unofficial)
 
